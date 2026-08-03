@@ -22,12 +22,12 @@ Sample Attribution (best to place it in a credits screen in-game or DevForum pos
 
 WITH LINK:
 
-Forked from “Illinois Variable Speed Limit Gantry” by Illinois_Roadbuff (Rogue Jr), originally published 
+Forked from “Open Roadway Assets” by Illinois_Roadbuff (Rogue Jr), originally published 
 on Codeberg and mirrored on GitHub. Available for use under the CC BY 4.0 license (www.creativecommons.org/licenses/by/4.0/).
 
 WITHOUT LINK:
 
-Forked from “Illinois Variable Speed Limit Gantry” by Illinois_Roadbuff (Rogue Jr), originally published 
+Forked from “Open Roadway Assets” by Illinois_Roadbuff (Rogue Jr), originally published 
 on Codeberg and mirrored on GitHub. Available for use under the CC BY 4.0 license.
 ```
 
