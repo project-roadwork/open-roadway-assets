@@ -30,6 +30,7 @@ WITHOUT LINK:
 Forked from “Open Roadway Assets” by Illinois_Roadbuff (Rogue Jr), originally published 
 on Codeberg and mirrored on GitHub. Available for use under the CC BY 4.0 license.
 ```
+*Note: You may also put the asset name instead of "Open Roadway Assets"*
 
 ---
 
