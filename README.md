@@ -30,3 +30,7 @@ WITHOUT LINK:
 Forked from “Illinois Variable Speed Limit Gantry” by Illinois_Roadbuff (Rogue Jr), originally published 
 on Codeberg and mirrored on GitHub. Available for use under the CC BY 4.0 license.
 ```
+
+---
+
+![image](https://codeberg.org/project-roadwork/open-roadway-assets/raw/branch/main/docs/images/jrsignalsv2.png)
