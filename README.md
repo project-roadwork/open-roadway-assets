@@ -10,6 +10,8 @@ Open roadway assets
 
 [/lane-control](./lane-control) - Contains the Illinois lane control gantry.
 
+[/blinking-chevron](./blinking-chevron) - Contains the blinking chevron sign.
+
 Note that none of these are scripted at the moment.
 
 # License
